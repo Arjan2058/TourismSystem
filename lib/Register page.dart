@@ -15,7 +15,7 @@ class _MyRegisterState extends State<MyRegister> {
          ElevatedButton(
           onPressed: (){
             Navigator.pop(context);
-          },child: const  Text('Go back!'),
+          },child: const  Text('Go Aarjan!'),
         ),
 
       ),
